@@ -1,4 +1,4 @@
-package com.example.financialcontrol.dto;
+package com.financialcontrol.dto;
 
 import lombok.Data;
 

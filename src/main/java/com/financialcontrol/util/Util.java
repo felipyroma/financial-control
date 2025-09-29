@@ -1,6 +1,5 @@
-package com.example.financialcontrol.util;
+package com.financialcontrol.util;
 
-import com.example.financialcontrol.service.base.IBankStatementService;
 import org.apache.pdfbox.Loader;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
@@ -9,10 +8,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.text.SimpleDateFormat;
-import java.time.format.DateTimeFormatter;
-import java.util.Calendar;
 import java.util.Date;
-import java.util.Map;
 
 public class Util {
 

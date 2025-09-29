@@ -1,4 +1,4 @@
-package com.example.financialcontrol.entity;
+package com.financialcontrol.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

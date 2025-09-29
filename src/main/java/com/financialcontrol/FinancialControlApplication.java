@@ -1,7 +1,7 @@
-package com.example.financialcontrol;
+package com.financialcontrol;
 
-import com.example.financialcontrol.service.impl.ExcelService;
-import com.example.financialcontrol.service.base.IBankStatementService;
+import com.financialcontrol.service.impl.ExcelService;
+import com.financialcontrol.service.base.IBankStatementService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

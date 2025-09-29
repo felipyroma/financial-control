@@ -1,4 +1,4 @@
-package com.example.financialcontrol.service.base;
+package com.financialcontrol.service.base;
 
 import org.apache.poi.ss.usermodel.Workbook;
 
